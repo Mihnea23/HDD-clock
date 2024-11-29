@@ -1,9 +1,5 @@
 #include "main.h"
 
-/* TODO LIST
-/  use t_led_on in Timeslot calculation (fix would be nice, but not neccessary)
-*/
-
 #define LOG_LEVEL_LOCAL ESP_LOG_NONE
 #include "esp_log.h"
 #define TAG_MAIN "MAIN"
